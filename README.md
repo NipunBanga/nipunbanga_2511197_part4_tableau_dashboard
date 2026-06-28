@@ -1546,161 +1546,77 @@ NipunBanga\_BITSOM\_BA\_2511197\_part4\_tableau\_dashboard/
 
 └── LICENSE
 
-
-
-\# Screenshots Included
-
-
+# Screenshots Included
 
 The repository contains dashboard screenshots demonstrating the key components of the Tableau solution.
-
-
-
 | Screenshot | Purpose |
-
 |------------|---------|
-
 | Dashboard Overview | Complete executive dashboard |
-
 | KPI Cards | Summary business metrics |
-
 | Sales Trend | Monthly sales analysis |
-
 | Regional Performance | Geographic comparison |
-
 | Category Analysis | Product category insights |
-
 | Interactive Filters | Dashboard interactivity |
-
 | Final Dashboard | Executive reporting view |
-
-
 
 These screenshots provide visual evidence of the implemented dashboard and support the accompanying documentation.
 
-
-
-\# Tools \& Technologies Used
-
-
+# Tools & Technologies Used
 
 | Tool | Purpose |
-
 |------|---------|
-
 | Tableau Desktop / Tableau Public | Dashboard Development |
-
 | Microsoft Excel | Data Preparation |
-
 | GitHub | Version Control \& Documentation |
-
 | Markdown | Project Documentation |
 
-
-
-\# Skills Demonstrated
-
-
-
+# Skills Demonstrated
 This project showcases the following technical and analytical competencies:
 
+### Business Intelligence
+- Executive Dashboard Design
+- KPI Development
+- Performance Monitoring
+- Data Storytelling
 
+### Data Visualization
+- Chart Selection
+- Dashboard Layout
+- Visual Hierarchy
+- Interactive Analytics
 
-\### Business Intelligence
+### Business Analytics
+- Sales Analysis
+- Profitability Analysis
+- Trend Identification
+- Comparative Analysis
+- Decision Support
 
-\- Executive Dashboard Design
+### Professional Skills
+- Analytical Thinking
+- Business Communication
+- Executive Reporting
+- Documentation
+- Problem Solving
 
-\- KPI Development
-
-\- Performance Monitoring
-
-\- Data Storytelling
-
-
-
-\### Data Visualization
-
-\- Chart Selection
-
-\- Dashboard Layout
-
-\- Visual Hierarchy
-
-\- Interactive Analytics
-
-
-
-\### Business Analytics
-
-\- Sales Analysis
-
-\- Profitability Analysis
-
-\- Trend Identification
-
-\- Comparative Analysis
-
-\- Decision Support
-
-
-
-\### Professional Skills
-
-\- Analytical Thinking
-
-\- Business Communication
-
-\- Executive Reporting
-
-\- Documentation
-
-\- Problem Solving
-
-
-
-\# Learning Outcomes
-
-
-
+# Learning Outcomes
 Through this project, the following learning objectives were successfully achieved:
-
-
-
-\- Developed an end-to-end Tableau dashboard from transactional data.
-
-\- Applied Business Intelligence principles to solve practical business problems.
-
-\- Designed executive-friendly visualizations following dashboard best practices.
-
-\- Created meaningful KPI-based reporting for decision-makers.
-
-\- Applied data storytelling techniques to communicate analytical findings effectively.
-
-\- Strengthened understanding of interactive dashboard development.
-
-\- Improved the ability to translate raw data into actionable business recommendations.
-
-
+- Developed an end-to-end Tableau dashboard from transactional data.
+- Applied Business Intelligence principles to solve practical business problems.
+- Designed executive-friendly visualizations following dashboard best practices.
+- Created meaningful KPI-based reporting for decision-makers.
+- Applied data storytelling techniques to communicate analytical findings effectively.
+- Strengthened understanding of interactive dashboard development.
+- Improved the ability to translate raw data into actionable business recommendations.
 
 These outcomes demonstrate both technical proficiency and business-oriented analytical thinking.
 
-
-
-\# Conclusion
-
-
-
+# Conclusion
 This project demonstrates how Tableau can transform raw business transaction data into a powerful executive decision-support system. By combining interactive dashboards, carefully selected visualizations, KPI monitoring, and business storytelling, the solution enables stakeholders to quickly understand organizational performance and identify opportunities for improvement.
-
-
 
 Rather than relying on traditional spreadsheet-based reporting, the dashboard delivers a centralized, intuitive, and visually engaging platform for business analysis. Users can explore sales trends, evaluate regional performance, compare product categories, and monitor profitability through a single interactive interface.
 
-
-
 The project highlights the practical application of Business Intelligence concepts, emphasizing that effective analytics is not only about presenting data but also about communicating meaningful insights that drive informed decision-making. The combination of visualization, interpretation, and strategic recommendations demonstrates the value of data-driven management in modern organizations.
-
-
 
 Overall, this assignment reflects a complete Business Intelligence workflow—from data preparation and visualization design to executive reporting and actionable recommendations—showcasing the effective use of Tableau as a modern analytics platform.
 
